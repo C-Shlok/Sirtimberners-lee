@@ -67,7 +67,7 @@ body {
 .menu {
     list-style: none;
     font-family: fantasy;
-    position: absolute;
+    position: sticky;
     top: 10px;
     right: 30px;
     cursor: pointer;
